@@ -1,7 +1,20 @@
-.h1 {
+h1 {
 font-family: Papyrus, fantasy;
+font-size: 16px;
 }
 
-.p1 {
-font-family: Helvetica, sans-serif;
+ul {
+list-style-type: circle;
+font-family: Nexa, Verdana, sans-serif;
+font-size: 16px;
+}
+
+p1 {
+font-family: Nexa, Verdana, sans-serif;
+font-size: 16px;
+}
+
+a {
+text-decoration: none;
+color:blue;
 }
